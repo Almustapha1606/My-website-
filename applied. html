@@ -1,0 +1,45 @@
+<p>
+ <table border="1">
+    <tr>
+        <th>Drilling types</th>
+        <th>Price</th>
+    </tr>
+    <tr>
+        <td>company </td>
+        <td>1.85m</td>
+    </tr>
+    <tr>
+        <td>Bouwal</td>
+        <td>1 million </td>
+    </tr>
+    <tr>
+       <th>cleaning types</th>
+       <th>price</th>
+    </tr>
+    <tr>
+        <td>company </td>
+        <td>2 million </td>
+    </tr>
+    <tr>
+        <td>house </td>
+        <td>depends </td>
+    </tr>
+    <tr>
+        <td>hotel </td>
+        <td>1.5m </td>
+    </tr>
+    <tr>
+        <td>Street </td>
+        <td>depends </td>
+    </tr>
+ </table>
+</p>
+<form>
+    <lebel>Drilling types </lebel>
+    <input name="Drilling types"><br>
+    <lebel>Cleaning types </lebel>
+    <input name="Cleaning types "><br>
+    <lebel>applied date</lebel>
+    <input name="date"type="date"><br>
+    <button>click here to apply </button>
+</form>
